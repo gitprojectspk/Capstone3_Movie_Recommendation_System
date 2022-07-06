@@ -9,7 +9,9 @@ Simply put a Recommendation System is a filtration program whose prime goal is
 A recommendation engine can be of three types- collaborative recommendation engine, content-based recommendation engine, and hybrid recommendation engine.
 
 **Collaborative Recommendation Engine:** In collaborative filtering, a recommendation system recommends a user the products based on the preferences of the other users with similar tastes
+
 **Content Based Recommendation Engine:** As the name suggests, a content-based recommendation engine recommends the relevant content to the users based on their preferred features of other content.
+
 **Hybrid recommendation engine:** Collaborative filtering and content-based filtering both are used widely in the recommendation systems. A recommendation engine with both the collaborative filtering and content-based filtering is called a hybrid recommendation engine.
 
 For this Project, I will build Content based and Collaborative recommendation engine for a movie database. 
