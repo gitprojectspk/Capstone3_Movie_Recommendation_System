@@ -14,7 +14,8 @@ A recommendation engine can be of three types- collaborative recommendation engi
 
 **Hybrid recommendation engine:** Collaborative filtering and content-based filtering both are used widely in the recommendation systems. A recommendation engine with both the collaborative filtering and content-based filtering is called a hybrid recommendation engine.
 
-For this Project, I will build Content based and Collaborative recommendation engine for a movie database. 
-I will be using below datasets from Kaggle. 
+For this Project, I have built Content based and Collaborative recommendation engine for a movie database. 
+I have used datasets from Kaggle. 
 Dataset Link:
 https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
+https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
