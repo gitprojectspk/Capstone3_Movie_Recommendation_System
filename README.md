@@ -16,24 +16,3 @@ For this Project, I will build Content based and Collaborative recommendation en
 I will be using below datasets from Kaggle. 
 Dataset Link:
 https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
-
-##Exploratory Data Analysis 
-The Dataset has around 670 users and 7000 movies and 10 unique values of ratings. 
-![image](https://user-images.githubusercontent.com/96436449/177659696-3d289158-8997-4e4a-a676-e67bf01f7aaa.png)
-
-The data show that Forrest Gump is the most popular film.
-![image](https://user-images.githubusercontent.com/96436449/177659836-06b02672-d68d-40ad-9d92-19431e1914a0.png)
-
-Here we can see that ratings are not evenly distributed among movies. The movie with id 356 [Forrest Gump] is the most rated movie, however it does not have more that 341 ratings.
-![image](https://user-images.githubusercontent.com/96436449/177659908-79de7807-a16b-4b52-bbfa-17853ff9ebad.png)
-
-The histogram shows that most users (roughly 560 out of 671 –80%) have less than 250 ratings.
-![image](https://user-images.githubusercontent.com/96436449/177659977-91021921-94fa-45e4-aeba-3b77bd0179e7.png)
-
-The histogram shows that most movies (roughly 6500 out of 7063 –90%) have less than 30 ratings.
-![image](https://user-images.githubusercontent.com/96436449/177659987-18d4b5b8-571b-4100-9861-6f276c5d2ea2.png)
-
-The plot shows many movies having 0 ratings. Less number of users have rated movies. Most of the users have given rating between 3 to 4.
-![image](https://user-images.githubusercontent.com/96436449/177660021-4aa3bc50-fd78-48a3-928c-3cfe897a73bf.png)
- Average rating given to frequently watched films.
-![image](https://user-images.githubusercontent.com/96436449/177660036-9ff6f6f9-44d8-4602-aed9-9341e9c10f73.png)
