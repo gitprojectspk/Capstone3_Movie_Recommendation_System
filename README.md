@@ -1,4 +1,4 @@
-# Capstone3_Movie_Recommendation_System
+# Movie_Recommendation_System
 
 Whether you realize it or not, recommendations drive so many of our decisions on daily basis. Be it obvious recommendations such as suggestions of new restaurants from friends, or a certain model of camera discussed in a blog, to less direct recommendations such as Netflix promoting shows you are likely to enjoy, or Amazon proposing other purchases that go well with what you are buying.
 
